@@ -8,6 +8,6 @@
 
 #From the 780 purchases, 84% are form male users that represents an amount of $1,967.00 in contrast to women that represents a 14%.
 
-#The peak of the users are in a range of 20-24 years old whose represents an amount oof $1,114.00. This quantity represent a liitle bit less than the half of our sales.
+#The peak of the users are in a range of 20-24 years old whose represents an amount oof $1,114.00. This quantity represents a little bit less than the half of our sales.
 
-#I think that we can have a win-win status if we make decrease by a minimu percentage the Nirvana Item Price so that will probably an increase in opur sales making this item more popular and more profitable as well.
+#I think that we can have a win-win status if we decrease by a minimum percentage the Nirvana Item Price so we will probably increase our sales making this item more popular and more profitable as well.
